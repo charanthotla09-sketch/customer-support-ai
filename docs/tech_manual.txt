@@ -1,0 +1,1 @@
+Technical Manual: If the application crashes on file upload, clear the browser cache and ensure file size is under 50MB. For login problems, verify 2FA settings and reset session cookies. For installation issues, ensure OS meets minimum requirements: Windows 10+, macOS 12+, or Ubuntu 20.04+.

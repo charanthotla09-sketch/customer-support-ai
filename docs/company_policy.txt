@@ -1,0 +1,8 @@
+Company Policy Document
+
+1. Refund requests must be reviewed and approved by a human supervisor before confirmation is sent.
+2. Subscription cancellation requests must be reviewed by a human supervisor.
+3. Account closure requests must not be auto-approved.
+4. Compensation requests require management approval.
+5. Escalation to management must be reviewed by a human supervisor.
+6. Customer communication must remain respectful, clear, and professional.

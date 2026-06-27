@@ -1,0 +1,16 @@
+FAQ Document
+
+1. Password Reset:
+   Click "Forgot Password" on the login page and follow the reset instructions.
+
+2. Refund Processing:
+   Approved refunds are generally processed within 5-7 business days.
+
+3. Invoice Requests:
+   Customers can request invoices from the billing department.
+
+4. Profile Updates:
+   Customers can update profile information from the account settings page.
+
+5. Account Activation/Deactivation:
+   Contact account support if activation or deactivation assistance is required.

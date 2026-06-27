@@ -1,0 +1,22 @@
+Technical Manual
+
+1. If the application crashes during file upload:
+   - Clear the browser/application cache
+   - Confirm the file size is under 50 MB
+   - Update the application to the latest version
+   - Retry using a supported file format
+   - Review system logs for upload-related errors
+
+2. Login problems:
+   - Verify username and password
+   - Reset password if needed
+   - Check whether the account is active
+
+3. Installation issues:
+   - Verify system requirements
+   - Reinstall the application
+   - Check network/firewall restrictions
+
+4. Configuration issues:
+   - Use the default configuration template
+   - Validate API keys and environment settings
